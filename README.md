@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello!
 
 <!--
 **ebarendt/ebarendt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm an experienced software engineer focused on building cloud-based web services through strong technical leadership, design, and implementation. I enjoy enabling technical growth through innovation and new technologies while delivering software that empowers customers.
+
+I'm currently working on a the [Data Axle Platform](https://platform.data-axle.com) ingesting sources of data, cleaning it up, merging it together, and providing it to our customers via files or via APIs in real-time.

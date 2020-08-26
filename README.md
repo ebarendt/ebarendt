@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 I'm an experienced software engineer focused on building cloud-based web services through strong technical leadership, design, and implementation. I enjoy enabling technical growth through innovation and new technologies while delivering software that empowers customers.
 
+My system administration background and technical curiosity have helped me to better understand the development, deployment, and operations aspects of shipping products.
+
 I'm currently working on a the [Data Axle Platform](https://platform.data-axle.com) ingesting sources of data, cleaning it up, merging it together, and providing it to our customers via files or via APIs in real-time.

@@ -19,4 +19,3 @@ I'm an experienced software engineer focused on building cloud-based web service
 
 My system administration background and technical curiosity have helped me to better understand the development, deployment, and operations aspects of shipping products.
 
-I'm currently working at [Stitch Fix](https://stitchfix.com) building the platform that runs the company's applications.

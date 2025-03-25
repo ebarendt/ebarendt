@@ -14,8 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I'm an experienced software engineer focused on building cloud-based web services through strong technical leadership, design, and implementation. I enjoy enabling technical growth through innovation and new technologies while delivering software that empowers customers.
-
-My system administration background and technical curiosity have helped me to better understand the development, deployment, and operations aspects of shipping products.
-
